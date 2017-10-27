@@ -1,0 +1,33 @@
+.navbar {
+  padding: 15px 30px;
+  background-color: white;
+}
+
+.navbar-container {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo{
+  height: 50px;
+}
+
+.navbar-right {
+  display: flex;
+  flex: 0 0 300px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.avatar {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.fa-bars{
+  font-size: 30px;
+}
+
+
